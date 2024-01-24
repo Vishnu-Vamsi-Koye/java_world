@@ -1,4 +1,4 @@
-package oops_world;
+package oops_world.Inheritance;
 
 public class Car {
 

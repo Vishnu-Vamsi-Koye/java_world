@@ -1,4 +1,4 @@
-package Patterns;
+package Loops.Pattern;
 /*
 1
 1 2

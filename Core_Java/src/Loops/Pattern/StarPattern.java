@@ -1,4 +1,4 @@
-package Patterns;
+package Loops.Pattern;
 
 public class StarPattern {
 	public void square(int n){

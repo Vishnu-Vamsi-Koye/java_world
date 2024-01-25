@@ -1,4 +1,4 @@
-package Dowhile;
+package Loops.Dowhile;
 
 public class Sample3 {
 

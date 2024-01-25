@@ -1,4 +1,4 @@
-package Patterns;
+package Loops.Pattern;
 import java.util.Scanner;
 public class AbcPrinting {
 public static void main(String[] args) {

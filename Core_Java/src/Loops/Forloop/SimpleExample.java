@@ -1,4 +1,4 @@
-package Forloop;
+package Loops.Forloop;
 
 public class SimpleExample {
     public static void main(String[] args) {
